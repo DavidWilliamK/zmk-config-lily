@@ -34,6 +34,6 @@ manifest:
     # bongo display
     - name: nice-view-mod
       remote: dsifry
-      revision: v1.0
+      revision: main
   self:
     path: config
