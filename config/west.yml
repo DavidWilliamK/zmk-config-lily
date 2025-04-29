@@ -29,5 +29,9 @@ manifest:
     - name: zmk-oled-adapter
       remote: mctechnology17
       revision: main
+    # bongo display
+    - name: nice-view-mod
+      remote: dsifry
+      revision: main
   self:
     path: config
