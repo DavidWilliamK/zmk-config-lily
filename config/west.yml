@@ -8,8 +8,8 @@ manifest:
     # nice_oled - nice_epaper - dongle_display!view - oled Adapter
     - name: mctechnology17
       url-base: https://github.com/mctechnology17
-    - name: dsifry
-      url-base: https://github.com/dsifry
+    - name: DavidWilliamK
+      url-base: https://github.com/DavidWilliamK
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -32,8 +32,8 @@ manifest:
       remote: mctechnology17
       revision: main
     # bongo display
-    - name: nice-view-mod
-      remote: dsifry
+    - name: nice-view-bongo
+      remote: DavidWilliamK
       revision: main
   self:
     path: config
